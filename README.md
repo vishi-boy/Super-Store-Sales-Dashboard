@@ -59,9 +59,9 @@ Compare regional performance
 Forecast future sales trends
 ## Dashboard Preview
 
-![Sales Dashboard](Snapshotpage1.png)
+![Sales Dashboard](Snapshot page1.png)
 
-![Forecast Dashboard](Snapshotpage2.png)
+![Forecast Dashboard](Snapshot page2.png)
 
 👨‍💻 Author
 Vishal Gupta
