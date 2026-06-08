@@ -57,14 +57,14 @@ Track profitability
 Analyze customer behavior
 Compare regional performance
 Forecast future sales trends
-## Dashboard Preview
-
-![Sales Dashboard](Snapshot page1.png)
-
-![Forecast Dashboard](Snapshot page2.png)
 
 👨‍💻 Author
 Vishal Gupta
 B.Tech (AI & Data Science)
 Aspiring Data Analyst / BI Developer
 Skills: Power BI, SQL, Excel, Python, Data Visualization
+
+![Sales Dashboard](https://raw.githubusercontent.com/USERNAME/REPO/main/images/dashboard1.png)
+
+![Forecast Dashboard]((https://github.com/vishi-boy/Super-Store-Sales-Dashboard/blob/main/Snapshot%20page2.png))
+
