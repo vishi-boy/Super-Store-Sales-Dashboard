@@ -64,7 +64,13 @@ B.Tech (AI & Data Science)
 Aspiring Data Analyst / BI Developer
 Skills: Power BI, SQL, Excel, Python, Data Visualization
 
-![Sales Dashboard](https://raw.githubusercontent.com/USERNAME/REPO/main/images/dashboard1.png)
+## 📊 Dashboard Preview
 
-![Forecast Dashboard]((https://github.com/vishi-boy/Super-Store-Sales-Dashboard/blob/main/Snapshot%20page2.png))
+### Sales Dashboard
+
+![Sales Dashboard](https://raw.githubusercontent.com/vishi-boy/Super-Store-Sales-Dashboard/main/Snapshot%20page1.png)
+
+### Sales Forecast Dashboard
+
+![Forecast Dashboard](https://raw.githubusercontent.com/vishi-boy/Super-Store-Sales-Dashboard/main/Snapshot%20page2.png)
 
